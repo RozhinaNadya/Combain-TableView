@@ -13,6 +13,7 @@
 		8470C956288AEC06005DE0C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8470C954288AEC06005DE0C9 /* Main.storyboard */; };
 		8470C958288AEC10005DE0C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8470C957288AEC10005DE0C9 /* Assets.xcassets */; };
 		8470C95B288AEC10005DE0C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8470C959288AEC10005DE0C9 /* LaunchScreen.storyboard */; };
+		8470C963288AEEEE005DE0C9 /* ApiColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8470C962288AEEEE005DE0C9 /* ApiColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8470C957288AEC10005DE0C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8470C95A288AEC10005DE0C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8470C95C288AEC10005DE0C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8470C962288AEEEE005DE0C9 /* ApiColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8470C94E288AEC06005DE0C9 /* AppDelegate.swift */,
 				8470C950288AEC06005DE0C9 /* SceneDelegate.swift */,
 				8470C952288AEC06005DE0C9 /* ViewController.swift */,
+				8470C962288AEEEE005DE0C9 /* ApiColor.swift */,
 				8470C954288AEC06005DE0C9 /* Main.storyboard */,
 				8470C957288AEC10005DE0C9 /* Assets.xcassets */,
 				8470C959288AEC10005DE0C9 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				8470C953288AEC06005DE0C9 /* ViewController.swift in Sources */,
 				8470C94F288AEC06005DE0C9 /* AppDelegate.swift in Sources */,
+				8470C963288AEEEE005DE0C9 /* ApiColor.swift in Sources */,
 				8470C951288AEC06005DE0C9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
